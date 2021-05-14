@@ -1,0 +1,6 @@
+div{
+    border: 2px solid red;
+    outline: 4px dashed rgb(102, 228, 102);
+    text-align: center;
+    padding: auto;
+}
